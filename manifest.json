@@ -2,7 +2,7 @@
     "name": "Falmouth MA Tide Clock",
     "short_name": "TideClock",
     "description": "Falmouth MA Tide Clock",
-    "start_url": "https://mgalis.github.io/tideclock/",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#2196F3",
@@ -18,4 +18,5 @@
             "type": "image/png"
         }
     ]
+
 }
